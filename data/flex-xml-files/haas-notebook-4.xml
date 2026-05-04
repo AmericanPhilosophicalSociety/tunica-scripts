@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document xsi:noNamespaceSchemaLocation="file:FlexInterlinear.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <interlinear-text guid="bcba352c-fcdd-4dd0-a0b4-3cfe47585220">
+    <item type="title" lang="en">Haas Notebook 04.167</item>
+    <item type="title-abbreviation" lang="en">Haas.NB.04.167</item>
+    <paragraphs>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="punct" lang="en">A</item></word>
+              <word><item type="punct" lang="en">Choctaw</item></word>
+              <word><item type="punct" lang="en">Ball</item></word>
+            </words><item type="segnum" lang="en">1</item><item type="gls" lang="en" /></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="qaa-x-aaa">tă´tcă´hta</item><item type="gls" lang="en">The Choctaw</item><morphemes>
+                  <morph>
+                    <item type="txt" lang="qaa-x-aaa">tă´tcă´hta</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="qaa-x-aaa">ni´hkiri´pu</item><item type="gls" lang="en">ball</item><morphemes>
+                  <morph>
+                    <item type="txt" lang="qaa-x-aaa">ni´hkiri´pu</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="qaa-x-aaa">hiyu´ką</item><item type="gls" lang="en">when I got there</item><morphemes>
+                  <morph>
+                    <item type="txt" lang="qaa-x-aaa">hiyu´ką</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="qaa-x-aaa">hi´p'ɔhkini</item><item type="gls" lang="en">I danced</item><morphemes>
+                  <morph>
+                    <item type="txt" lang="qaa-x-aaa">hi´p'ɔhkini</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="qaa-x-aaa">la´u</item><item type="gls" lang="en">nights</item><item type="pos" lang="en">n</item><morphemes>
+                  <morph>
+                    <item type="txt" lang="qaa-x-aaa">la´u</item>
+                    <item type="gls" lang="tun">lawu</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="qaa-x-aaa">'e´nihku</item><item type="gls" lang="en">three</item><morphemes>
+                  <morph>
+                    <item type="txt" lang="qaa-x-aaa">'e´nihku</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="punct" lang="qaa-x-aaa">.</item></word>
+            </words><item type="segnum" lang="en">2</item><item type="gls" lang="en" /></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="qaa-x-aaa">'a´cuhk</item><item type="gls" lang="en">days</item><morphemes>
+                  <morph>
+                    <item type="txt" lang="qaa-x-aaa">'a´cuhk</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="qaa-x-aaa">'enihk</item><item type="gls" lang="en">three</item><morphemes>
+                  <morph>
+                    <item type="txt" lang="qaa-x-aaa">'enihk</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="qaa-x-aaa">ta´puna</item><item type="gls" lang="en">the ball raquets</item><morphemes>
+                  <morph>
+                    <item type="txt" lang="qaa-x-aaa">ta´puna</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="qaa-x-aaa">ra´hp'ɔ´n'i´ti</item><item type="gls" lang="en">played</item><morphemes>
+                  <morph>
+                    <item type="txt" lang="qaa-x-aaa">ra´hp'ɔ´n'i´ti</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="punct" lang="qaa-x-aaa">.</item></word>
+            </words><item type="segnum" lang="en">3</item><item type="gls" lang="en" /></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="qaa-x-aaa">hi´pu na´'ara</item><item type="gls" lang="en">we were dancing</item><morphemes>
+                  <morph>
+                    <item type="txt" lang="qaa-x-aaa">hi´pu na´'ara</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="qaa-x-aaa">la´utäpa</item><item type="gls" lang="en">every night</item><morphemes>
+                  <morph>
+                    <item type="txt" lang="qaa-x-aaa">la´utäpa</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="punct" lang="qaa-x-aaa">.</item></word>
+            </words><item type="segnum" lang="en">4</item><item type="gls" lang="en" /></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="qaa-x-aaa">hi´pu na´'arac</item><item type="gls" lang="en">we were dancing</item><morphemes>
+                  <morph>
+                    <item type="txt" lang="qaa-x-aaa">hi´pu na´'arac</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="qaa-x-aaa">to´ni</item><item type="gls" lang="en">the people</item><morphemes>
+                  <morph>
+                    <item type="txt" lang="qaa-x-aaa">to´ni</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="qaa-x-aaa">taic</item><item type="gls" lang="en">at the fire</item><morphemes>
+                  <morph>
+                    <item type="txt" lang="qaa-x-aaa">taic</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="qaa-x-aaa">'aku´ran</item><item type="gls" lang="en">rounds (circles)</item><morphemes>
+                  <morph>
+                    <item type="txt" lang="qaa-x-aaa">'aku´ran</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="qaa-x-aaa">'ilį</item><item type="gls" lang="en">2</item><morphemes>
+                  <morph>
+                    <item type="txt" lang="qaa-x-aaa">'ilį</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="qaa-x-aaa">hipuna´'arani</item><item type="gls" lang="en">we danced</item><morphemes>
+                  <morph>
+                    <item type="txt" lang="qaa-x-aaa">hipuna´'arani</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="qaa-x-aaa">la´uyu´ruc</item><item type="gls" lang="en">all night long</item><morphemes>
+                  <morph>
+                    <item type="txt" lang="qaa-x-aaa">la´uyu´ruc</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="punct" lang="qaa-x-aaa">.</item></word>
+            </words><item type="segnum" lang="en">5</item><item type="gls" lang="en" /></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="qaa-x-aaa">hi´htc</item><item type="gls" lang="en">now</item><morphemes>
+                  <morph>
+                    <item type="txt" lang="qaa-x-aaa">hi´htc</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="qaa-x-aaa">ho´tun'akä´ni</item><item type="gls" lang="en">that's all, it's finished</item><morphemes>
+                  <morph>
+                    <item type="txt" lang="qaa-x-aaa">ho´tun'akä´ni</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="punct" lang="qaa-x-aaa">.</item></word>
+            </words><item type="segnum" lang="en">6</item><item type="gls" lang="en" /></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="qaa-x-aaa">'aku´ran</item><item type="gls" lang="en">(circles)</item><morphemes>
+                  <morph>
+                    <item type="txt" lang="qaa-x-aaa">'aku´ran</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="qaa-x-aaa">hi´kina</item><item type="gls" lang="en">far from</item><morphemes>
+                  <morph>
+                    <item type="txt" lang="qaa-x-aaa">hi´kina</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="qaa-x-aaa">ta´ik</item><item type="gls" lang="en">the fire</item><morphemes>
+                  <morph>
+                    <item type="txt" lang="qaa-x-aaa">ta´ik</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="txt" lang="qaa-x-aaa">'atä´hkala 'a´ra</item><item type="gls" lang="en">was in the middle</item><morphemes>
+                  <morph>
+                    <item type="txt" lang="qaa-x-aaa">'atä´hkala 'a´ra</item>
+                  </morph>
+                </morphemes></word>
+              <word><item type="punct" lang="qaa-x-aaa">.</item></word>
+            </words><item type="segnum" lang="en">7</item><item type="gls" lang="en" /></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="qaa-x-aaa">'on´ma´hon</item><item type="gls" lang="en">Indians</item><morphemes>
+                  <morph>
+                    <item type="txt" lang="qaa-x-aaa">'on´ma´hon</item>
+                  </morph>
+                </morphemes></word>
+            </words><item type="segnum" lang="en">8</item><item type="gls" lang="en" /></word>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="en" font="Times New Roman" />
+      <language lang="qaa-x-aaa" font="Charis SIL" vernacular="true" />
+      <language lang="tun" font="Charis SIL" />
+    </languages>
+  </interlinear-text>
+</document>

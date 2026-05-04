@@ -1,0 +1,241 @@
+{
+    "version": "0.1",
+    "name": "tunica-keyboard",
+    "author": "Yumi Dineen Shiroma, data from Brian Carpenter",
+    "characters": [
+        {
+            "row": 0,
+            "column": 0,
+            "character": "´",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 1,
+            "character": "`",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 2,
+            "character": "'",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 3,
+            "character": "·",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 4,
+            "character": "ˆ",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 5,
+            "character": "ˇ",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 6,
+            "character": "ʔ",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 0,
+            "character": "α",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 1,
+            "character": "ä",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 2,
+            "character": "ā",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 3,
+            "character": "à",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 4,
+            "character": "ą̈",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 5,
+            "character": "ǎ",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 6,
+            "character": "ą",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 7,
+            "character": "â",
+            "keyboard_code": null
+        },
+        {
+            "row": 2,
+            "column": 0,
+            "character": "ə",
+            "keyboard_code": null
+        },
+        {
+            "row": 2,
+            "column": 1,
+            "character": "ɛ",
+            "keyboard_code": null
+        },
+        {
+            "row": 2,
+            "column": 2,
+            "character": "ę",
+            "keyboard_code": null
+        },
+        {
+            "row": 2,
+            "column": 3,
+            "character": "ê",
+            "keyboard_code": null
+        },
+        {
+            "row": 2,
+            "column": 4,
+            "character": "é",
+            "keyboard_code": null
+        },
+        {
+            "row": 2,
+            "column": 5,
+            "character": "è",
+            "keyboard_code": null
+        },
+        {
+            "row": 2,
+            "column": 6,
+            "character": "ë",
+            "keyboard_code": null
+        },
+        {
+            "row": 3,
+            "column": 0,
+            "character": "ì",
+            "keyboard_code": null
+        },
+        {
+            "row": 3,
+            "column": 1,
+            "character": "ǐ",
+            "keyboard_code": null
+        },
+        {
+            "row": 3,
+            "column": 2,
+            "character": "į",
+            "keyboard_code": null
+        },
+        {
+            "row": 3,
+            "column": 3,
+            "character": "î",
+            "keyboard_code": null
+        },
+        {
+            "row": 4,
+            "column": 0,
+            "character": "ǫ",
+            "keyboard_code": null
+        },
+        {
+            "row": 4,
+            "column": 1,
+            "character": "ò",
+            "keyboard_code": null
+        },
+        {
+            "row": 4,
+            "column": 2,
+            "character": "ɔ",
+            "keyboard_code": null
+        },
+        {
+            "row": 4,
+            "column": 3,
+            "character": "ɔ̀",
+            "keyboard_code": null
+        },
+        {
+            "row": 4,
+            "column": 4,
+            "character": "ɔ̨",
+            "keyboard_code": null
+        },
+        {
+            "row": 5,
+            "column": 0,
+            "character": "ǔ",
+            "keyboard_code": null
+        },
+        {
+            "row": 5,
+            "column": 1,
+            "character": "ú",
+            "keyboard_code": null
+        },
+        {
+            "row": 5,
+            "column": 2,
+            "character": "ų",
+            "keyboard_code": null
+        },
+        {
+            "row": 5,
+            "column": 3,
+            "character": "û",
+            "keyboard_code": null
+        },
+        {
+            "row": 5,
+            "column": 4,
+            "character": "ù",
+            "keyboard_code": null
+        },
+        {
+            "row": 5,
+            "column": 5,
+            "character": "č",
+            "keyboard_code": null
+        },
+        {
+            "row": 5,
+            "column": 6,
+            "character": "š",
+            "keyboard_code": null
+        },
+        {
+            "row": 5,
+            "column": 7,
+            "character": "ᵘ",
+            "keyboard_code": null
+        }
+    ]
+}
